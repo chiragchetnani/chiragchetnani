@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chirag Chetnani</h1>
-<h3 align="center">**Aspiring Machine Learning Engineer** Hey there! I'm a Computer Science student at JECRC University, expected to graduate in 2024. My GitHub is a snapshot of my journey in technology. Proficient in Python, C++, HTML/CSS, SQL, and more, I love diving into projects using TensorFlow, Keras, PyTorch, and other cool tools. Check out my projects like predicting Amazon product length with TensorFlow and BERT, sentiment analysis using neural networks, and replicating the Amazon Go store's system with OpenCV and YOLO-NAS. I'm all about real-world applications, like my Healthtech project and personal loan prediction model with Scikit-Learn.</h3>
+
+**Aspiring Machine Learning Engineer**
+
+Hey there! I'm a Computer Science student at JECRC University, expected to graduate in 2024. My GitHub is a snapshot of my journey in technology. Proficient in Python, C++, HTML/CSS, SQL, and more, I love diving into projects using TensorFlow, Keras, PyTorch, and other cool tools. Check out my projects like predicting Amazon product length with TensorFlow and BERT, sentiment analysis using neural networks, and replicating the Amazon Go store's system with OpenCV and YOLO-NAS. I'm all about real-world applications, like my Healthtech project and personal loan prediction model with Scikit-Learn.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragchetnani" alt="chiragchetnani" /></a> </p>
 
