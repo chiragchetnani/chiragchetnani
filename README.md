@@ -1,52 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chirag Chetnani =======================================================================================================================================  Aspiring Machine Learning Engineer ----------------------------------  Hey there! I'm Chirag Chetnani, a Computer Science student at JECRC University set to graduate in 2024. My GitHub is a snapshot of my journey in technology. Proficient in Python, C++, HTML/CSS, SQL, and more, I love diving into projects using TensorFlow, Keras, PyTorch, and other cool tools. Check out my projects like predicting Amazon product length with TensorFlow and BERT, sentiment analysis using neural networks, and replicating the Amazon Go store's system with OpenCV and YOLO-NAS. I'm all about real-world applications, like my Healthtech project and personal loan prediction model with Scikit-Learn. On the professional side, I've been a Silver-Campus Ambassador for E-Cell, IIT Bombay, actively promoting events. Also, as a Campus Ambassador for Xebia, I've helped organize events, spreading the word about Machine Learning initiatives on our campus. My GitHub isn't just code; it's a reflection of my academic journey, project contributions, and the exciting world of machine learning. I'm proud of being a runner-up in the JECRC University Ideathon 2021 and the IIT Delhi Game Jam 2022. With certifications in Google Cloud and E-Cell, IIT Bombay's Campus Ambassador program, my GitHub is a story of continuous learning and making an impact in the tech world.  * 🌍  I'm based in Jaipur, India * 🖥️  See my portfolio at [Beyond Code: Chirag's Tech Odyssey](http://chiragchetnani.github.io/Personal-portfolio/) * ✉️  You can contact me at [chetnanichirag@gmail.com](mailto:chetnanichirag@gmail.com) * 🚀  I'm currently working on [Illuvium Analysis And Ethereum Price prediction for January, 2024](http://illuvium.streamlit.app) * 🧠  I'm learning Crypto Market Analysis and Ways to catch Crypto Trends * 🤝  I'm open to collaborating on Machine Learning And Research
+<h1 align="center">Hi 👋, I'm Chirag Chetnani</h1>
+<h3 align="center">**Aspiring Machine Learning Engineer** Hey there! I'm a Computer Science student at JECRC University, expected to graduate in 2024. My GitHub is a snapshot of my journey in technology. Proficient in Python, C++, HTML/CSS, SQL, and more, I love diving into projects using TensorFlow, Keras, PyTorch, and other cool tools. Check out my projects like predicting Amazon product length with TensorFlow and BERT, sentiment analysis using neural networks, and replicating the Amazon Go store's system with OpenCV and YOLO-NAS. I'm all about real-world applications, like my Healthtech project and personal loan prediction model with Scikit-Learn.</h3>
 
-# Hi, I'm Chirag Chetnani! 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragchetnani" alt="chiragchetnani" /></a> </p>
 
-**Aspiring Machine Learning Engineer**
+- 🔭 I’m currently working on **Edtech bases multi**
 
-Hey there! I'm a Computer Science student at JECRC University, expected to graduate in 2024. My GitHub is a snapshot of my journey in technology. Proficient in Python, C++, HTML/CSS, SQL, and more, I love diving into projects using TensorFlow, Keras, PyTorch, and other cool tools.
-
-Check out my projects like predicting Amazon product length with TensorFlow and BERT, sentiment analysis using neural networks, and replicating the Amazon Go store's system with OpenCV and YOLO-NAS. I'm all about real-world applications, like my Healthtech project and personal loan prediction model with Scikit-Learn.
-
-## Based
-
-
-## Skills
-
-<p align="left"> 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <!-- Add other skill icons here -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="left"> 
-  <a href="https://www.github.com/chiragchetnani" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <!-- Add other social icons here -->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragchetnani&show_icons=true&locale=en&layout=compact" alt="chiragchetnani" /></p>
 
-## Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragchetnani&show_icons=true&locale=en" alt="chiragchetnani" /></p>
 
-**My GitHub Stats**
-
-<!-- Add your GitHub stats and other graphs here -->
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chiragchetnani"><img src="https://github-readme-stats.vercel.app/api?username=chiragchetnani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chiragchetnani's GitHub stats" /></a>
-<a href="http://www.github.com/chiragchetnani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchetnani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/chiragchetnani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chiragchetnani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/chiragchetnani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragchetnani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragchetnani&" alt="chiragchetnani" /></p>
